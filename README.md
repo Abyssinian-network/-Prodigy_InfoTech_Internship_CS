@@ -1,8 +1,7 @@
 # Prodigy_InfoTech_Internship_Cyber Security
 
-## Name : Md. Ammaar Quadri  |  CIN: PIT/AUG24/07906
-
-![Logo](https://github.com/maq765/Prodigy_InfoTech_Internship_CS/blob/main/logo.png)
+## Name : Mr. Eyob Hailu  |  CIN: PIT/AUG24/02239
+![Logo](https://github.com/Abyssinian-network/Prodigy_InfoTech_Internship_CS-/blob/main/logo.png)
 
 ### Task Descriptions
 
